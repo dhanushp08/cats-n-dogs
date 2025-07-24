@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images as either a "dog" or a "cat". It's a foundational deep learning example demonstrating image classification.
+This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images as either a "dog" or a "cat". It is a simple deep learning model which does the job of image classification.
 
 ## Features
 
