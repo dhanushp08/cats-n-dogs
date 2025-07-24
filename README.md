@@ -65,13 +65,41 @@ This project is designed to be run in a **Jupyter Notebook** environment, such a
 
 ## Sample Prediction
 
-When tested on a sample image of a dog, the model correctly predicted:
+Okay, here's a simple, straightforward "Sample Prediction" section showing both a dog and a cat:
 
-```
-[[1]]
-```
+-----
 
-(Where `1` typically represents 'dog' and `0` represents 'cat').
+### Sample Predictions
+
+To show how the model works, we tested it with pictures of a dog and a cat.
+
+**1. Testing with a Dog:**
+
+  * **Input Image:**
+    ( If you put your `dog.jpg` image here)
+
+  * **Model's Answer:**
+
+    ```
+    [[1]]
+    ```
+
+  * **What it Means:** The model gave `1`, meaning it correctly saw a **dog**.
+
+**2. Testing with a Cat:**
+
+  * **Input Image:**
+    ( If you put your `cat.jpg` image here)
+
+  * **Model's Answer:**
+
+    ```
+    [[0]]
+    ```
+
+  * **What it Means:** The model gave `0`, meaning it correctly saw a **cat**.
+
+-----
 
 ## Future Enhancements
 
