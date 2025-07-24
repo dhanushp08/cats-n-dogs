@@ -13,7 +13,7 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow an
   * **Model Training & Evaluation:** Trains the model and tracks its performance.
   * **Prediction:** Capable of classifying new, unseen images.
 
-## Technologies Used
+## Built With
 
   * **Python**
   * **TensorFlow & Keras**
@@ -45,8 +45,8 @@ This project is designed to be run in a **Jupyter Notebook** environment, such a
 
 1.  **Get the Code:**
 
-      * Clone this repository: `git clone https://github.com/dhanushp08/firstrepo.git`
-      * Navigate into the project directory: `cd firstrepo`
+      * Clone this repository: `git clone https://github.com/dhanushp08/cats-n-dogs.git`
+      * Navigate into the project directory: `cd cats-n-dogs`
 
 2.  **Kaggle API Key:**
 
