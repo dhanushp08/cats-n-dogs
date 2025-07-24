@@ -65,12 +65,6 @@ This project is designed to be run in a **Jupyter Notebook** environment, such a
 
 ## Sample Prediction
 
-Okay, here's a simple, straightforward "Sample Prediction" section showing both a dog and a cat:
-
------
-
-### Sample Predictions
-
 To show how the model works, we tested it with pictures of a dog and a cat.
 
 **1. Testing with a Dog:**
