@@ -95,7 +95,7 @@ To show how the model works, we tested it with pictures of a dog and a cat.
 
 -----
 
-## Future Enhancements
+##  How the project can be enhanced in near future
 
   * **Data Augmentation:** Increase dataset diversity to improve robustness.
   * **Transfer Learning:** Experiment with pre-trained models (e.g., VGG16, ResNet) for potentially higher accuracy.
