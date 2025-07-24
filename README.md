@@ -1,7 +1,5 @@
-# cats vs dogs
-<br>
 
-# Dogs vs. Cats Image Classifier 🐾
+# Dogs vs. Cats Image Classifier 
 
 ## Project Overview
 
