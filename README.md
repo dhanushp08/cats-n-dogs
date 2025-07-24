@@ -98,7 +98,6 @@ To show how the model works, we tested it with pictures of a dog and a cat.
 ##  How the project can be enhanced in near future
 
   * **Data Augmentation:** Increase dataset diversity to improve robustness.
-  * **Transfer Learning:** Experiment with pre-trained models (e.g., VGG16, ResNet) for potentially higher accuracy.
   * **Hyperparameter Tuning:** Optimize model parameters for better performance.
   * **Deployment:** Explore deploying the model (e.g., web app, mobile app).
 
